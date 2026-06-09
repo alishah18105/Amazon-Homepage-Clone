@@ -1,7 +1,5 @@
 ## 📌 Amazon Homepage Clone
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Amazon+Homepage+Clone)
-
 A static and responsive replica of the **Amazon homepage**, created to practice modern front-end web development using clean HTML structure and CSS styling techniques.
 
 ---

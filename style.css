@@ -236,4 +236,93 @@
   font-size: 12px;
 }
 
+.footer-panel-1{
+background-color: #37475A;
+color: white;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 0.85 rem;
+}
 
+.footer-panel-2{
+    background-color: #232F3E;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul a{
+    display: block;
+}
+.footer-panel-2 p{
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 45px;
+}
+
+.footer-panel-2 a{
+    color: #DDDDDD;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.footer-panel-3{
+    height: 70px;
+    background-color: #232F3E ;
+    border-top: 0.2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-logo{
+    height: 50px;
+    width: 110px;
+    background-image: url("/assets/images/logo.png");
+    background-size: cover;
+    background-position: center;
+    margin-right: 50px;
+}
+.footer-3-content{
+    display: flex;
+    width: 50%;
+}
+
+.footer-3-boxes{
+    height: 30px;
+    width: 30%;
+    box-sizing: border-box;
+    border: 1px solid whitesmoke;
+    color: white;
+    margin-right: 10px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 13px;
+    padding-left: 15px;
+}
+
+.footer-panel-4{
+    height: 75px;
+    background-color: #131A22;
+    color: white;
+    font-size: 12px;
+    
+}
+.pages{
+    padding-top: 20px;
+    text-align: center;
+    
+}
+.pages a{
+    padding-right: 15px;
+}
+
+.copyright{
+    padding-top: 5px;
+    text-align: center;
+}
